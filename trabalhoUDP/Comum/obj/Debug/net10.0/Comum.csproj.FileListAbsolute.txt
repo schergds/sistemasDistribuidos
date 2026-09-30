@@ -1,0 +1,12 @@
+C:\Users\scher\OneDrive\Documents\Programação\trabalhoUDP\Comum\bin\Debug\net10.0\Comum.deps.json
+C:\Users\scher\OneDrive\Documents\Programação\trabalhoUDP\Comum\bin\Debug\net10.0\Comum.dll
+C:\Users\scher\OneDrive\Documents\Programação\trabalhoUDP\Comum\bin\Debug\net10.0\Comum.pdb
+C:\Users\scher\OneDrive\Documents\Programação\trabalhoUDP\Comum\obj\Debug\net10.0\Comum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scher\OneDrive\Documents\Programação\trabalhoUDP\Comum\obj\Debug\net10.0\Comum.AssemblyInfoInputs.cache
+C:\Users\scher\OneDrive\Documents\Programação\trabalhoUDP\Comum\obj\Debug\net10.0\Comum.AssemblyInfo.cs
+C:\Users\scher\OneDrive\Documents\Programação\trabalhoUDP\Comum\obj\Debug\net10.0\Comum.csproj.CoreCompileInputs.cache
+C:\Users\scher\OneDrive\Documents\Programação\trabalhoUDP\Comum\obj\Debug\net10.0\Comum.dll
+C:\Users\scher\OneDrive\Documents\Programação\trabalhoUDP\Comum\obj\Debug\net10.0\refint\Comum.dll
+C:\Users\scher\OneDrive\Documents\Programação\trabalhoUDP\Comum\obj\Debug\net10.0\Comum.pdb
+C:\Users\scher\OneDrive\Documents\Programação\trabalhoUDP\Comum\obj\Debug\net10.0\ref\Comum.dll
+C:\Users\scher\OneDrive\Documents\Programação\trabalhoUDP\Comum\obj\Debug\net10.0\Comum.csproj.Up2Date
